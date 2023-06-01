@@ -2,10 +2,9 @@
 
 ## Desafio  da ImersãoDev da empresa Alura.  
 
-Nele,  deveríamos escolher filmes e séries de nossa preferência e  acrescentar o nome às imagens.
-Aprendemos neste desafio o uso de while e imput.
+Nele,  precisamos escolhes filmes e séries de nossa preferência pessoal, nomeando e estilizando cada um da lista.
 
-Linguage utilizada HTML, CSS, Javascript
+=>  Linguagens utilizadas (HTML5, CSS3 e Javascript)
 
 ### Se preferir, pode assistir ao pequeno video deste projeto que postei no meu Linkedln.
 
