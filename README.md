@@ -1,6 +1,6 @@
 # PatFlix
-
 PatFlix foi um  Desafio  da ImersãoDev da empresa Alura.
+
 Nele,  deveríamos escolher filmes e séries de nossa preferência e  acrescentar o nome às imagens.
 Aprendemos neste desafio o uso de while e imput.
 
